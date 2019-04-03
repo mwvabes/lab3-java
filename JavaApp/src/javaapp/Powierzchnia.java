@@ -11,4 +11,5 @@ package javaapp;
  */
 public interface Powierzchnia {
     int policzPole();
+    
 }
