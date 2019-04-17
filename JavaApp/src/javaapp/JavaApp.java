@@ -31,6 +31,13 @@ public class JavaApp {
         tab1[0] = p1;
         tab1[1] = new Pomieszczenie();
         
+        System.out.println("Iksde1");
+        System.out.println("Iksde2");
+        System.out.println("Iksde3");
+        System.out.println("Iksde4");
+        System.out.println("Iksde5");
+        
+        System.out.println("All right that's all");
         
         
     }
