@@ -20,13 +20,13 @@ public class JavaApp {
         p1.x = 5;
         p1.y = 10;
         p1.pietro = 1;
+        p1.fajnie = 2;
         //ElementPietra zm;
         //zm = p1;
         //ElementPietra zm = new ElementPietra();
-
         
         
-        ElementPietra [] tab1 = new ElementPietra[2];
+        Klasa [] tab1 = new Klasa[2];
         
         tab1[0] = p1;
         tab1[1] = new Pomieszczenie();
