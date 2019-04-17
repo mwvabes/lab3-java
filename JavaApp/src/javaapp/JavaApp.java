@@ -33,6 +33,10 @@ public class JavaApp {
         
         System.out.println("Iksde1");
         System.out.println("Iksde2");
+        System.out.println("Iksde3");
+        System.out.println("Iksde4");
+        System.out.println("Iksde5");
+        
         
     }
     
