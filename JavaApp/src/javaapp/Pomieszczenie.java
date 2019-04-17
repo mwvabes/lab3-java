@@ -9,6 +9,8 @@ package javaapp;
  *
  * @author student
  */
-public interface Powierzchnia {
-    public int policzPole();
+public class Pomieszczenie extends ElementPietra {
+    public int x,y;
+    public String nazwa;
+    
 }
