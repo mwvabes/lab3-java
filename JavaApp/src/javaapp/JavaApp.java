@@ -15,7 +15,24 @@ public class JavaApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello world");
+        Pomieszczenie p1 = new Pomieszczenie();
+        p1.x = 5;
+        p1.y = 10;
+        p1.pietro = 1;
+        //ElementPietra zm;
+        //zm = p1;
+        //ElementPietra zm = new ElementPietra();
+
+        
+        
+        ElementPietra [] tab1 = new ElementPietra[2];
+        
+        tab1[0] = p1;
+        tab1[1] = new Pomieszczenie();
+        
+        
+        
     }
     
 }
