@@ -18,6 +18,8 @@ public class JavaApp {
         tab[0] = p;
         tab[1] = new Pomieszczenie();
         System.out.println("Cos tam");
+        System.out.println("Cos tam2");
+        System.out.println("Cos tam3");
     }
     
 }
