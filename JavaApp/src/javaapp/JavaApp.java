@@ -37,6 +37,8 @@ public class JavaApp {
         System.out.println("Iksde4");
         System.out.println("Iksde5");
         
+        System.out.println("All right that's all");
+        
         
     }
     
