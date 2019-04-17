@@ -1,6 +1,15 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
 package javaapp;
 
-public class Pomieszczenie extends El_pietra {
+/**
+ *
+ * @author student
+ */
+public class Pomieszczenie extends ElementPietra {
     public int x,y;
-    public String nazwa;
+    public String nazwa;  
 }

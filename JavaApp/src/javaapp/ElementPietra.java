@@ -9,6 +9,6 @@ package javaapp;
  *
  * @author student
  */
-public interface Powierzchnia {
-    public int policzPole();
+public abstract class ElementPietra {
+    public int pietro;
 }
