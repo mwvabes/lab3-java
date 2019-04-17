@@ -11,6 +11,5 @@ package javaapp;
  */
 public class Pomieszczenie extends ElementPietra {
     public int x,y;
-    public String nazwa;
-    
+    public String nazwa;  
 }
