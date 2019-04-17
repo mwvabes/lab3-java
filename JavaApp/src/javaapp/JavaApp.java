@@ -5,17 +5,19 @@
  */
 package javaapp;
 
-/**
- *
- * @author student
- */
 public class JavaApp {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello world");
+        Pomieszczenie p = new Pomieszczenie();
+        p.x = 4;
+        p.y = 2;
+        El_pietra e1;
+        //El_pietra el = new El_pietra();
+        El_pietra[] tab = new El_pietra[2];
+        tab[0] = p;
+        tab[1] = new Pomieszczenie();
+        System.out.println("Cos tam");
     }
     
 }
