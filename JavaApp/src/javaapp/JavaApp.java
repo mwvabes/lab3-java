@@ -31,7 +31,8 @@ public class JavaApp {
         tab1[0] = p1;
         tab1[1] = new Pomieszczenie();
         
-        
+        System.out.println("Iksde1");
+        System.out.println("Iksde2");
         
     }
     
