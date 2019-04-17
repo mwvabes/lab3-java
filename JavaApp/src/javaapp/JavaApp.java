@@ -20,6 +20,8 @@ public class JavaApp {
         System.out.println("Cos tam");
         System.out.println("Cos tam2");
         System.out.println("Cos tam3");
+        System.out.println("ha ha ha");
+        System.out.println("xD");
     }
     
 }
